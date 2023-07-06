@@ -1,0 +1,65 @@
+what is docker hub :Docker Hub is a service provided by Docker for finding and sharing container images.
+1. pwd
+2. ls
+3. cd
+4. mkdir & rmdir
+5. rm
+6. touch
+7. man & --help
+8. cp
+1)Git is a distributed version control system (VCS) that allows developers to track changes to files and collaborate on projects. It was created by Linus Torvalds, the creator of the Linux operating system, in 2005
+2)GIT, which stands for Global Information Tracker, is a powerful and widely-used version control system commonly used for software development and other collaborative projects. The full form of GIT is just the beginning of understanding the powerful capabilities of this too
+
+10 advanced Git Commands
+Git Rebase.
+Searching a Git Repo.
+Git Log.
+Git Diff.
+Git Reflog.
+Git Revert.
+Git Prune.
+Git Stash
+
+git log: Shows a detailed log of commits in the repository, including the commit hash, author, date, and commit message. It helps you track the history of changes.
+
+git diff: Displays the differences between the current working directory and the latest commit. It shows additions, deletions, and modifications to files.
+
+git branch: Lists all branches in the repository. Adding a branch name after the command creates a new branch, while the -d flag followed by a branch name deletes a branch.
+
+git checkout: Switches between branches. You can use it to switch to a different branch or restore files to their state in a specific commit.
+
+git reset: Allows you to undo commits and move the branch pointer to a different commit. The --hard flag discards all changes, --soft preserves changes as uncommitted modifications, and --mixed resets changes and preserves them as unstaged files.
+
+git merge: Combines changes from one branch into another. It integrates changes from a source branch into a target branch.
+
+git fetch: Fetches the latest commits from a remote repository but does not merge them into the current branch. It updates your local references to the remote repository.
+
+git pull: Fetches the latest commits from a remote repository and automatically merges them into the current branch.
+
+git push: Pushes local commits to a remote repository. It updates the remote repository with your local changes.
+
+git clone: Creates a local copy of a remote repository on your machine. It downloads the entire repository, including its commit history and branches.
+
+git remote: Manages remote repositories associated with your local repository. You can add, remove, or rename remotes, as well as set up tracking branches.
+
+git config: Configures Git settings. You can set your name, email, default editor, aliases, and other preferences
+
+What are the different git branching strategies?
+Master branch. This is the main branch of the repository in which we have the latest stable code of production. ...                                                                            integration branch. ...
+Staging branch. ...
+Dev-deploy branch. ...
+Feature deployment. ...
+Bugfix deployment.
+Dos:
+Don't
+
+op 15 Docker Commands – Docker Commands Tutorial
+docker –version.
+docker pull.
+docker run.
+docker ps.
+docker ps -a.
+docker exec.
+docker stop.
+docker kil
+
